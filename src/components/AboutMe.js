@@ -14,15 +14,21 @@ const AboutMe = () => {
           <h1 className="about-heading">ABout Me</h1>
           <p className="aboutp">
             Welcome to my site! My preferred name is Dimitri Hector and I do a
-            lot of computer and science things. About me: I am pretty happy with
-            the current progress of my academic and professional careers. I have
-            completed a multitude of projects and have gained an immense amount
-            of experience when it comes to research in the technical fields.
-            This page talks about my past experiences and what I have done, but
-            it also touches on what I learned and how I felt during each
-            experience. Like anyone else, I have had my share of trying times
-            while working, but all of those experiences are what have made me
-            the person I am today.
+            lot of computer and science things. <br></br>
+            <br></br>About me: I am pretty happy with the current progress of my
+            academic and professional careers. I have completed a multitude of
+            projects and have gained an immense amount of experience when it
+            comes to research in the technical fields.
+            <br></br>
+            <br></br>
+            Check out my resume site that gives insight about the personal
+            aspects of my journey!{" "}
+            <a
+              className="hyper-link"
+              onClick={() => window.open("https://www.joshuahector.com/")}
+            >
+              My Resume Site
+            </a>
           </p>
         </div>
       </div>
