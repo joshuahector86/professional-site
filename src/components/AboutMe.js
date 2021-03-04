@@ -13,21 +13,16 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">ABout Me</h1>
           <p className="aboutp">
-            Lorem ipsum dolor sit its all goodamet, consectetur adipiscing elit,
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Massa sed elementum tempus egestas sed sed risus pretium quam.
-            Sollicitudin aliquam ultrices sagittis orci a scelerisque purus.
-            Volutpat sed cras ornare arcu dui vivamus arcu. Urna cursus eget
-            nunc scelerisque viverra. Nulla pellentesque dignissim enim sit
-            amet. Arcu odio ut sem nulla pharetra diam sit amet. Sem fringilla
-            ut morbi tincidunt augue interdum. Dictum fusce ut placerat orci.
-            Euismod lacinia at quis risus. Enim ut tellus elementum sagittis
-            vitaen iaculis nunc sed. Pellentesque elit ullamcorper dignissim
-            cras tincidunt lobortis. Semauris vitae ultricies. M duis tristique.
-            Sit amet consectetur adipiscing elit. Facilisis magna etiam tempor
-            orci eu. Lectus magna fringilla urna porttitor rhoncus dolor purus
-            non enim. Senectus et netus et malesuada. Nibh praesent tristique
-            magna sit amet purus gravida.
+            Welcome to my site! My preferred name is Dimitri Hector and I do a
+            lot of computer and science things. About me: I am pretty happy with
+            the current progress of my academic and professional careers. I have
+            completed a multitude of projects and have gained an immense amount
+            of experience when it comes to research in the technical fields.
+            This page talks about my past experiences and what I have done, but
+            it also touches on what I learned and how I felt during each
+            experience. Like anyone else, I have had my share of trying times
+            while working, but all of those experiences are what have made me
+            the person I am today.
           </p>
         </div>
       </div>
