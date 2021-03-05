@@ -14,11 +14,15 @@ const AboutMe = () => {
           <h1 className="about-heading">ABout Me</h1>
           <p className="aboutp">
             Welcome to my site! My preferred name is Dimitri Hector and I do a
-            lot of computer and science things. <br></br>
-            <br></br>About me: I am pretty happy with the current progress of my
-            academic and professional careers. I have completed a multitude of
-            projects and have gained an immense amount of experience when it
-            comes to research in the technical fields.
+            lot of computer and science and tech things. <br></br>
+            <br></br>I am an energestic and passionate indvidual who is
+            constantly in search of new challenges and fun to be had! I have
+            experience in web development, research, object oriented
+            programming, mathematics and more. Outside of my tehcnical career I
+            am a professional West Coast Swing dancer and full time tech/game
+            nerd. Check out my page for details about my experience and feel
+            free to reach out to me using the form at the bottom of the page.
+            Thanks for stopping by!
             <br></br>
             <br></br>
             Check out my resume site that gives insight about the personal
