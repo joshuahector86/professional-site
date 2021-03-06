@@ -39,26 +39,7 @@ function App() {
       <Services />
       <Experience />
       <Portfolio />
-      <Particles
-        params={{
-          particles: {
-            number: {
-              value: 30,
-              density: {
-                enable: true,
-                value_area: 900,
-              },
-            },
-            shape: {
-              type: "circle",
-              stroke: {
-                width: 10,
-                color: "#2d3ef4",
-              },
-            },
-          },
-        }}
-      />
+
       <Contacts />
 
       <Footer />
