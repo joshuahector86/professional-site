@@ -10,7 +10,7 @@ function Experience() {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>Febraury 2020 - May 2021</h3>
+            <h3>February 2020 - May 2021</h3>
             <h4> Howard University Graduate Researcher</h4>
             <p>
               ● Researched cyber security as it relates to software and

@@ -16,32 +16,44 @@ const Footer = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-4 col-md-6 col-sm-6">
+            <div className="d-flex"></div>
+            <p>Thanks for visting my site!</p>
             <div className="d-flex">
-              <p>footer adress</p>
+              <br></br>
+              <br></br>
+              <p>Feel free to fill out the text form to reach me.</p>
             </div>
-            <div className="d-flex">
-              <a href="tel:555-555-5555">+1(704)962-1073</a>
-            </div>
-            <div className="d-flex">
-              <p>footer email</p>
-            </div>
+            <div className="d-flex"></div>
+            <p>I swear it actually works and I will get a message from you!</p>
           </div>
           <div className="col-lg-3 col-md-2 col-sm-6">
             <div className="row">
               <div className="col">
-                <a className="footer-nav">Home</a>
+                <a href="" className="footer-nav">
+                  Home
+                </a>
                 <br />
-                <a className="footer-nav">About Me</a>
+                <a href="" className="footer-nav">
+                  About Me
+                </a>
                 <br />
-                <a className="footer-nav">Services</a>
+                <a href="" className="footer-nav">
+                  Skills
+                </a>
                 <br />
               </div>
               <div className="col">
-                <a className="footer-nav">Experience</a>
+                <a href="" className="footer-nav">
+                  Experience
+                </a>
                 <br />
-                <a className="footer-nav">Portfolio</a>
+                <a href="" className="footer-nav">
+                  Portfolio
+                </a>
                 <br />
-                <a className="footer-nav">Contacts</a>
+                <a href="" className="footer-nav">
+                  Contacts
+                </a>
               </div>
             </div>
           </div>
